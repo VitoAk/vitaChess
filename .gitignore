@@ -3,3 +3,7 @@
 *.pem
 id_*
 *.pub
+
+# ASP.NET / .NET
+**/bin/
+**/obj/
