@@ -1,3 +1,5 @@
+import {lightColor, darkColor} from "../../assets/colors/colors.js";
+
 function Square({x, y, size, id}){
     const isBlack = (x + y) % 2 === 1;
     function handleClick(){
@@ -11,7 +13,7 @@ function Square({x, y, size, id}){
         <>
         {/* Base square, always loads */}
         <rect x={x * size} y={y * size} height={size} width={size}
-            fill={isBlack ? "#4e1b03" : "#eee"} 
+            fill={isBlack ? darkColor : lightColor} 
             data-id={id} onClick={handleClick}/>
         
         </>
