@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vitaChess.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+568f21cd598354453145c6a8b8a86fbbe61f7962")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9cc6b63f2deeb95a7b309bb35190eeb6b43e39e")]
 [assembly: System.Reflection.AssemblyProductAttribute("vitaChess.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vitaChess.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

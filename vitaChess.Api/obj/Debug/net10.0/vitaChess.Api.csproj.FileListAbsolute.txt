@@ -31,3 +31,4 @@ C:\Users\vitok\Desktop\vitaChess\vitaChess.Api\obj\Debug\net10.0\refint\vitaChes
 C:\Users\vitok\Desktop\vitaChess\vitaChess.Api\obj\Debug\net10.0\vitaChess.Api.pdb
 C:\Users\vitok\Desktop\vitaChess\vitaChess.Api\obj\Debug\net10.0\vitaChess.Api.genruntimeconfig.cache
 C:\Users\vitok\Desktop\vitaChess\vitaChess.Api\obj\Debug\net10.0\ref\vitaChess.Api.dll
+C:\Users\vitok\Desktop\vitaChess\vitaChess.Api\obj\Debug\net10.0\vitaChess.Api.sourcelink.json
